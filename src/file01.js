@@ -26,7 +26,5 @@ import { setTitle } from "./functions.js";
 let pageTitle= "Datos comparativos de frameworks JavaScript modernos";
 let pageID= "title";
 
-
 // TO-DO: Llama a la función setTitle para establecer el contenido del elemento HTML con el ID especificado
-
 setTitle(pageID, pageTitle);
